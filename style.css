@@ -152,14 +152,14 @@ body{
 @media (max-width:550px)
 {
     .hero-txt{
-        font-size: 28px;
+        font-size: 32px;
         color:#485157;
         font-weight: 700;
         line-height: 1.2;
         margin-bottom: 0px;
     }
     .form-control{
-        padding:16px 20px;
+        padding:14px 20px;
         border-radius: 6px 0px 0px 6px;
         border:1px solid blueviolet;
         font-size: 16px;
