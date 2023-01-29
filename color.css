@@ -73,45 +73,38 @@
 
 
 .col-gray-0{
-    width:180px;
-    height:90px;
     background-color: #f8f9fa;
     border-radius: 4px;
 }
 
 .col-gray-1{
-    width:180px;
-    height:90px;
+    
     background-color: #f1f3f5;
     border-radius: 4px;
 }
 
 .col-gray-2{
-    width:180px;
-    height:90px;
+    
     background-color:#e9ecef;
     border-radius: 4px;
 }
 
 .col-gray-3{
-    width:180px;
-    height:90px;
+   
     background-color: #dee2e6;
     border-radius: 4px;
 }
 
 
 .col-gray-4{
-    width:180px;
-    height:90px;
+   
     background-color: #ced4da;
     border-radius: 4px;
 }
 
 
 .col-gray-5{
-    width:180px;
-    height:90px;
+   
     background-color: #adb5bd;
     border-radius: 4px;
 }
@@ -120,76 +113,64 @@
 
 
 .col-gray-6{
-    width:180px;
-    height:90px;
+    
     background-color:#868e96;
     border-radius: 4px;
 }
 
 
 .col-gray-7{
-    width:180px;
-    height:90px;
+    
     background-color: #495057;
     border-radius: 4px;
 }
 
 
 .col-gray-8{
-    width:180px;
-    height:90px;
+    
     background-color: #343a40;
     border-radius: 4px;
 }
 
 .col-gray-9{
-    width:180px;
-    height:90px;
+    
     background-color: #212529;
     border-radius: 4px;
 }
 
 .col-red-0{
-    width:180px;
-    height:90px;
+    
     background-color: #fff5f5;
     border-radius: 4px;
 }
 
 
 .col-red-1{
-    width:180px;
-    height:90px;
+    
     background-color: #ffe3e3;
     border-radius: 4px;
 }
 
 
 .col-red-2{
-    width:180px;
-    height:90px;
     background-color: #ffc9c9;
     border-radius: 4px;
 }
 
 
 .col-red-3{
-    width:180px;
-    height:90px;
     background-color: #ffa8a8;
     border-radius: 4px;
 }
 
 .col-red-4{
-    width:180px;
-    height:90px;
+
     background-color: #ff8787;
     border-radius: 4px;
 }
 
 .col-red-5{
-    width:180px;
-    height:90px;
+   
     background-color: #ff6b6b;
     border-radius: 4px;
 }
@@ -197,8 +178,7 @@
 
 
 .col-red-6{
-    width:180px;
-    height:90px;
+    
     background-color: #fa5252;
     border-radius: 4px;
 }
@@ -207,16 +187,13 @@
 
 
 .col-red-7{
-    width:180px;
-    height:90px;
     background-color: #f03e3e;
     border-radius: 4px;
 }
 
 
 .col-red-8{
-    width:180px;
-    height:90px;
+    
     background-color: #e03131;
     border-radius: 4px;
 }
@@ -224,8 +201,7 @@
 
 
 .col-red-9{
-    width:180px;
-    height:90px;
+   
     background-color: #c92a2a;
     border-radius: 4px;
 }
@@ -744,6 +720,9 @@
         justify-content: center;
         gap:2rem;
         padding:50px 0px 70px 0px;
+    }
+    .w-180{
+        width:160px;
     }
 }
 
