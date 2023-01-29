@@ -140,7 +140,7 @@ body{
         padding:90px 0px;
     }
     .desc{
-        font-size: 18px;
+        font-size: 16px;
         line-height: 1.7;
         margin-top: 0px;
         color:#888e96;
@@ -149,7 +149,7 @@ body{
 
 }
 
-@media (max-width:600px)
+@media (max-width:550px)
 {
     .hero-txt{
         font-size: 32px;
